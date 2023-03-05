@@ -1,1 +1,0 @@
--- print("Script lua loaded from c++ :DD")
