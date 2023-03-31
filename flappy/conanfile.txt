@@ -1,0 +1,13 @@
+[requires]
+imgui-sfml/2.5@bincrafters/stable
+lua/5.4.4
+sol2/3.3.0
+
+[options]
+imgui:shared=True
+sfml:shared=True
+
+[generators]
+cmake
+[imports]
+lib, *.dylib* -> ./bin

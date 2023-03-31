@@ -1,0 +1,13 @@
+[requires]
+imgui-sfml/2.5@bincrafters/stable
+asio/1.24.0
+
+[options]
+imgui:shared=True
+sfml:shared=True
+
+[generators]
+cmake
+
+[imports]
+lib, *.dylib* -> ./bin

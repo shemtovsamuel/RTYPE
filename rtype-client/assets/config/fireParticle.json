@@ -1,0 +1,15 @@
+{
+    "nbParticles": 20,
+    "timeBetweenSpawn": 0.05,
+    "particleLifeTime": 1,
+    "rangeVelocityX": [-10, 10],
+    "rangeVelocityY": [-10, 10],
+    "rangeSpawnX": [-10, 10],
+    "rangeSpawnY": [-10, 10],
+    "isLooping": false,
+    "fadeScale": 1,
+    "textureName": "r-typesheet13",
+    "textureRect": [33, 70, 28, 33],
+    "textureScale": [0.1, 0.1],
+    "spriteLayout": 11
+}

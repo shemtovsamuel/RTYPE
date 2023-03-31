@@ -1,0 +1,11 @@
+[requires]
+imgui-sfml/2.5@bincrafters/stable
+lua/5.4.4
+sol2/3.3.0
+
+[options]
+imgui:shared=False
+sfml:shared=False
+
+[generators]
+cmake
